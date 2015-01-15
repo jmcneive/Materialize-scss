@@ -12,7 +12,6 @@ var gulp = require('gulp'),
         .pipe(gulp.dest('build/js'));  
     });
 
-
     // Styles task
     // Drugs
     gulp.task('sass', function() {
@@ -24,7 +23,6 @@ var gulp = require('gulp'),
     }))
       .pipe(gulp.dest('assets/css/'));
     });
-
 
     // Watch task
     // Watches JS

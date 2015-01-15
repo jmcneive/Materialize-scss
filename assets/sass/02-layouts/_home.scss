@@ -1,0 +1,32 @@
+body.home {
+    @extend .orange;
+    .large-logo {
+        font-size: 5em;
+    }
+    .card {
+        span.card-title {
+            text-align: center;
+            text-transform: uppercase;
+        }
+    }
+    .home-icn {
+        color: $palette-light;
+    }
+    // Palettes
+    // Change a value to see the palette adjusted
+    .test-1 { @include draw-palette($palette-primary) }
+    .test-2 { @include draw-palette($palette-dark) }
+    .test-3 { @include draw-palette($palette-light) }
+    .test-4 { @include draw-palette($palette-icon-txt) }
+    .test-5 { @include draw-palette($palette-alert) }
+    .test-6 { @include draw-palette($palette-text-prime) }
+    .test-7 { @include draw-palette($palette-text-second) }
+    .test-8 { @include draw-palette($palette-divider) }
+
+
+    // Demo styles
+    .test {
+      margin: 1em 0;
+      height: 6em;
+    }
+}
