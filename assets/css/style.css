@@ -58,85 +58,85 @@
 .materialize-red-text.text-darken-4 {
   color: #8b1014 !important; }
 
-.red.lighten-5, body.lighten-5.home {
+.red.lighten-5 {
   background-color: #FFEBEE !important; }
 
 .red-text.text-lighten-5 {
   color: #FFEBEE !important; }
 
-.red.lighten-4, body.lighten-4.home {
+.red.lighten-4 {
   background-color: #FFCDD2 !important; }
 
 .red-text.text-lighten-4 {
   color: #FFCDD2 !important; }
 
-.red.lighten-3, body.lighten-3.home {
+.red.lighten-3 {
   background-color: #EF9A9A !important; }
 
 .red-text.text-lighten-3 {
   color: #EF9A9A !important; }
 
-.red.lighten-2, body.lighten-2.home {
+.red.lighten-2 {
   background-color: #E57373 !important; }
 
 .red-text.text-lighten-2 {
   color: #E57373 !important; }
 
-.red.lighten-1, body.lighten-1.home {
+.red.lighten-1 {
   background-color: #EF5350 !important; }
 
 .red-text.text-lighten-1 {
   color: #EF5350 !important; }
 
-.red, body.home {
+.red {
   background-color: #F44336 !important; }
 
 .red-text {
   color: #F44336 !important; }
 
-.red.darken-1, body.darken-1.home {
+.red.darken-1 {
   background-color: #E53935 !important; }
 
 .red-text.text-darken-1 {
   color: #E53935 !important; }
 
-.red.darken-2, body.darken-2.home {
+.red.darken-2 {
   background-color: #D32F2F !important; }
 
 .red-text.text-darken-2 {
   color: #D32F2F !important; }
 
-.red.darken-3, body.darken-3.home {
+.red.darken-3 {
   background-color: #C62828 !important; }
 
 .red-text.text-darken-3 {
   color: #C62828 !important; }
 
-.red.darken-4, body.darken-4.home {
+.red.darken-4 {
   background-color: #B71C1C !important; }
 
 .red-text.text-darken-4 {
   color: #B71C1C !important; }
 
-.red.accent-1, body.accent-1.home {
+.red.accent-1 {
   background-color: #FF8A80 !important; }
 
 .red-text.text-accent-1 {
   color: #FF8A80 !important; }
 
-.red.accent-2, body.accent-2.home {
+.red.accent-2 {
   background-color: #FF5252 !important; }
 
 .red-text.text-accent-2 {
   color: #FF5252 !important; }
 
-.red.accent-3, body.accent-3.home {
+.red.accent-3 {
   background-color: #FF1744 !important; }
 
 .red-text.text-accent-3 {
   color: #FF1744 !important; }
 
-.red.accent-4, body.accent-4.home {
+.red.accent-4 {
   background-color: #D50000 !important; }
 
 .red-text.text-accent-4 {
@@ -478,85 +478,85 @@
 .indigo-text.text-accent-4 {
   color: #304ffe !important; }
 
-.blue.lighten-5 {
+.blue.lighten-5, body.lighten-5.home {
   background-color: #E3F2FD !important; }
 
 .blue-text.text-lighten-5 {
   color: #E3F2FD !important; }
 
-.blue.lighten-4 {
+.blue.lighten-4, body.lighten-4.home {
   background-color: #BBDEFB !important; }
 
 .blue-text.text-lighten-4 {
   color: #BBDEFB !important; }
 
-.blue.lighten-3 {
+.blue.lighten-3, body.lighten-3.home {
   background-color: #90CAF9 !important; }
 
 .blue-text.text-lighten-3 {
   color: #90CAF9 !important; }
 
-.blue.lighten-2 {
+.blue.lighten-2, body.lighten-2.home {
   background-color: #64B5F6 !important; }
 
 .blue-text.text-lighten-2 {
   color: #64B5F6 !important; }
 
-.blue.lighten-1 {
+.blue.lighten-1, body.lighten-1.home {
   background-color: #42A5F5 !important; }
 
 .blue-text.text-lighten-1 {
   color: #42A5F5 !important; }
 
-.blue {
+.blue, body.home {
   background-color: #2196F3 !important; }
 
 .blue-text {
   color: #2196F3 !important; }
 
-.blue.darken-1 {
+.blue.darken-1, body.darken-1.home {
   background-color: #1E88E5 !important; }
 
 .blue-text.text-darken-1 {
   color: #1E88E5 !important; }
 
-.blue.darken-2 {
+.blue.darken-2, body.darken-2.home {
   background-color: #1976D2 !important; }
 
 .blue-text.text-darken-2 {
   color: #1976D2 !important; }
 
-.blue.darken-3 {
+.blue.darken-3, body.darken-3.home {
   background-color: #1565C0 !important; }
 
 .blue-text.text-darken-3 {
   color: #1565C0 !important; }
 
-.blue.darken-4 {
+.blue.darken-4, body.darken-4.home {
   background-color: #0D47A1 !important; }
 
 .blue-text.text-darken-4 {
   color: #0D47A1 !important; }
 
-.blue.accent-1 {
+.blue.accent-1, body.accent-1.home {
   background-color: #82B1FF !important; }
 
 .blue-text.text-accent-1 {
   color: #82B1FF !important; }
 
-.blue.accent-2 {
+.blue.accent-2, body.accent-2.home {
   background-color: #448AFF !important; }
 
 .blue-text.text-accent-2 {
   color: #448AFF !important; }
 
-.blue.accent-3 {
+.blue.accent-3, body.accent-3.home {
   background-color: #2979FF !important; }
 
 .blue-text.text-accent-3 {
   color: #2979FF !important; }
 
-.blue.accent-4 {
+.blue.accent-4, body.accent-4.home {
   background-color: #2962FF !important; }
 
 .blue-text.text-accent-4 {
@@ -7472,8 +7472,6 @@ body.home {
     color: #CFD8DC; }
   body.home .htg {
     height: 20em; }
-  body.home .bg-1 {
-    background-color: pink; }
   body.home .bg-2 {
     background-color: blue; }
   body.home .bg-3 {

@@ -1,5 +1,5 @@
 body.home {
-    @extend .red;
+    @extend .blue;
     /* Grid Overrides */
     .container {
         /* Makes items full bleed */
@@ -20,9 +20,6 @@ body.home {
     }
     .htg {
         height: 20em;
-    }
-    .bg-1 {
-        background-color: pink;
     }
     .bg-2 {
         background-color: blue;
@@ -48,3 +45,6 @@ body.home {
       height: 6em;
     }
 }
+// .bg-1 {
+//     @extend .pink, .darken-2;
+// }
