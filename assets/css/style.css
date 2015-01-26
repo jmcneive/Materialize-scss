@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .materialize-red.lighten-5 {
   background-color: #fdeaeb !important; }
 
@@ -7383,6 +7384,37 @@ ul.side-nav.fixed {
   .picker--time .picker__box {
     margin-bottom: 5em; } }
 
+/**
+    * This file contains site-wide styles.  Page-specific styles can be found in 
+    * the /02-layouts directory.
+*/
+/**
+ * CONTENTS
+ *
+ * SETTINGS
+ * Global...............Globally-available variables and config.
+ *
+ * TOOLS
+ * Mixins...............Useful mixins.
+ *
+ * GENERIC
+ * Normalize.css........A level playing field.
+ * Box-sizing...........Better default `box-sizing`.
+ *
+ * BASE
+ * Headings.............H1–H6 styles.
+ *
+ * OBJECTS
+ * Wrappers.............Wrapping and constraining elements.
+ *
+ * COMPONENTS
+ * Page-head............The main page header.
+ * Page-foot............The main page footer.
+ * Buttons..............Button elements.
+ *
+ * TRUMPS
+ * Text.................Text helpers.
+ */
 /**
  * Function defining the difference between 2 colors
  *
